@@ -50,6 +50,8 @@ interface Myfunction {
 	abstract int sum();
 }
 
+//fsdfs
+
 
 @FunctionalInterface
 interface Myfunction4 {
